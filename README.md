@@ -6,7 +6,7 @@
 
 ## 참여자
 
-[@choboss00](https://github.com/choboss00)
+[@choboss00](https://github.com/choboss00) [@devyuseon](https://github.com/devyuseon) [@hye-on](https://github.com/hye-on) [@youngreal](https://github.com/youngreal) [@JShistory](https://github.com/JShistory)
 
 ## 진행 방식
 
